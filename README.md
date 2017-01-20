@@ -1,4 +1,5 @@
-## Summary of git command
+## Summary of git commands
 
-# OOP LAb1: Git practice
-Worawat Chueajedton
+git init - create a new repository
+git status - compare wworking directory with repository
+git food git lost
